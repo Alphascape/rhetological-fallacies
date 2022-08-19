@@ -9,7 +9,7 @@
 
 ### Install:
 ```bash
-go install github.com/alphascape/rhetological-fallacies
+go install github.com/alphascape/rhetological-fallacies@latest
 ```
 ### Run:
 ```bash
